@@ -34,7 +34,8 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "master": "master",
+        "dynamic_testing": "dynamic_testing"
       }
     }
   ],
